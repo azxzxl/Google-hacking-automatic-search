@@ -1,4 +1,3 @@
-  GNU nano 7.2                                                                                                     azxdorks.py                                                                                                              
 import requests
 from bs4 import BeautifulSoup
 import pyfiglet
